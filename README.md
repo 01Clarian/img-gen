@@ -1,6 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## Link to Working App:
+
+[CLICK ME TO TRY :)](https://vercel.com/01clarian/img-gen-d5tx)
 
 First, run the development server:
 
