@@ -1,8 +1,8 @@
 module.exports = {
   publicRuntimeConfig: {
-    apiKey: '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'
+    apiKey: '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'
   },
   env: {
-    apiKey: "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"
+    apiKey: "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"
   }
 };
