@@ -73,7 +73,7 @@ export default function App() {
   return (
     <div className="app-main night">
       {stars}
-      <h2>Generate a new Image using Open AI API</h2>
+      <h2>Create Images With Your Mind</h2>
 
       <textarea
         className="app-input"
