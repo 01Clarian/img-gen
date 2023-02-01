@@ -80,7 +80,7 @@ export default function App() {
         placeholder={placeholder}
         onChange={(e) => setPrompt(e.target.value)}
       />
-      <button onClick={generateImage}>Generate an Image</button>
+      <button onClick={generateImage}>Generate Image</button>
       {loading ? (
         <>
           <h3>{typedText}</h3>
